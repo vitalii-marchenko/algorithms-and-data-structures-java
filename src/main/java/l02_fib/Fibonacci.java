@@ -52,7 +52,7 @@ public class Fibonacci {
 
     public static void main(String[] args) {
         long startTime = System.currentTimeMillis();
-        new Fibonacci().run(1000);
+        new Fibonacci().run(5);
         long endTime = System.currentTimeMillis();
         System.out.println(endTime - startTime + " ms");
 
