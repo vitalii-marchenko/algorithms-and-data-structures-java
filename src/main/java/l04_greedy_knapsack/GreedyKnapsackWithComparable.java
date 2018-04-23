@@ -25,7 +25,7 @@ public class GreedyKnapsackWithComparable {
         }
 
         public int compareTo(Item o) {
-            double r1 = (double) o.cost / o.weight;
+            double r1 = (double) cost / weight;
             double r2 = (double) o.cost / o.weight;
             return -Double.compare(r1, r2);
         }
