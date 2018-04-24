@@ -34,7 +34,7 @@ public class GreedyKnapsackWithComparable {
     private void run() throws FileNotFoundException {
         Scanner input = new Scanner(new File("input.txt"));
         int n = input.nextInt();
-        int W = input.nextInt();
+        int bagCapacity = input.nextInt();
         Item[] items = new Item[n];
         for (int i = 0; i < n; i++) {
             items[i] = new Item(input.nextInt(),  input.nextInt());
@@ -44,11 +44,11 @@ public class GreedyKnapsackWithComparable {
 
         double result = 0;
         for (Item item : items) {
-            if (item.weight <= W) {
+            if (item.weight <= bagCapacity) {
                 result += item.cost;
-                W -= item.weight;
+                bagCapacity -= item.weight;
             } else {
-                result += (double) item.cost * W / item.weight;
+                result += (double) item.cost * bagCapacity / item.weight;
             }
         }
         System.out.println(result);
