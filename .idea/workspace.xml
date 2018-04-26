@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d478af8-5bf3-4291-8c65-411f99f235a4" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/psets_for_recap/ReverseInt.class" afterPath="$PROJECT_DIR$/target/classes/psets_for_recap/ReverseInt.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -88,14 +89,56 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GreedyKnapsackWithComparable.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GreedyKnapsackWithComparable.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/l04_greedy_knapsack/GreedyKnapsackWithComparable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="28" column="50" lean-forward="false" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="50" />
+            <state relative-caret-position="341">
+              <caret line="39" column="67" lean-forward="true" selection-start-line="39" selection-start-column="67" selection-end-line="39" selection-end-column="67" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Stack.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/a_data_structures_part/a_stack/Stack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="23" column="43" lean-forward="false" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#205#206#0" expanded="true" />
+                <element signature="e#252#253#0" expanded="true" />
+                <element signature="e#284#285#0" expanded="true" />
+                <element signature="e#324#325#0" expanded="true" />
+                <element signature="e#361#362#0" expanded="true" />
+                <element signature="e#392#393#0" expanded="true" />
+                <element signature="e#420#421#0" expanded="true" />
+                <element signature="e#470#471#0" expanded="true" />
+                <element signature="e#662#663#0" expanded="true" />
+                <element signature="e#697#698#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BalancedBrackets.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/a_data_structures_part/a_stack/BalancedBrackets.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="List.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/List.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="191">
+              <caret line="599" column="6" lean-forward="false" selection-start-line="599" selection-start-column="6" selection-end-line="599" selection-end-column="6" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -133,7 +176,6 @@
         <option value="$PROJECT_DIR$/input.txt" />
         <option value="$PROJECT_DIR$/src/main/java/l04_greedy_knapsack/GreedyKnapsack.java" />
         <option value="$PROJECT_DIR$/src/main/java/l04_greedy_knapsack/GreedyKnapsackWithComparator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/l04_greedy_knapsack/GreedyKnapsackWithComparable.java" />
         <option value="$PROJECT_DIR$/src/main/java/l04_greedy_knapsack/NumOfCoins.java" />
         <option value="$PROJECT_DIR$/input_huffman.txt" />
         <option value="$PROJECT_DIR$/src/main/java/l05_huffman/HuffmanCoding.java" />
@@ -141,6 +183,10 @@
         <option value="$PROJECT_DIR$/src/main/java/psets_for_recap/ReverseString.java" />
         <option value="$PROJECT_DIR$/src/main/java/psets_for_recap/Palindrome.java" />
         <option value="$PROJECT_DIR$/src/main/java/psets_for_recap/ReverseInt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/l04_greedy_knapsack/GreedyKnapsackWithComparable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/a_data_structures_part/Stack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/a_data_structures_part/a_stack/Stack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/a_data_structures_part/a_stack/BalancedBrackets.java" />
       </list>
     </option>
   </component>
@@ -388,6 +434,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithms-and-data-structures-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithms-and-data-structures-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="a_stack" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="AndroidView" />
@@ -411,47 +483,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReverseInt">
-    <configuration default="false" name="HuffmanCoding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="l05_huffman.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="l05_huffman.HuffmanCoding" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="algorithms-and-data-structures-java" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="l06_binary_search.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="l06_binary_search.BinarySearch" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="algorithms-and-data-structures-java" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.BalancedBrackets">
     <configuration default="false" name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -500,6 +532,46 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="psets_for_recap.ReverseInt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="algorithms-and-data-structures-java" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="a_data_structures_part.a_stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="a_data_structures_part.a_stack.Stack" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="algorithms-and-data-structures-java" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="BalancedBrackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="a_data_structures_part.a_stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="a_data_structures_part.a_stack.BalancedBrackets" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -716,19 +788,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.HuffmanCoding" />
-      <item index="1" class="java.lang.String" itemvalue="Application.BinarySearch" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ReverseString" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Palindrome" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ReverseInt" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ReverseString" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Palindrome" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ReverseInt" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Stack" />
+      <item index="4" class="java.lang.String" itemvalue="Application.BalancedBrackets" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ReverseInt" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Palindrome" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ReverseString" />
-        <item index="3" class="java.lang.String" itemvalue="Application.BinarySearch" />
-        <item index="4" class="java.lang.String" itemvalue="Application.HuffmanCoding" />
+        <item index="0" class="java.lang.String" itemvalue="Application.BalancedBrackets" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Stack" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ReverseInt" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Palindrome" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ReverseString" />
       </list>
     </recent_temporary>
   </component>
@@ -841,8 +913,14 @@
           <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/a_data_structures_part/a_stack/BalancedBrackets.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="10" />
+      <option name="time" value="15" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -865,30 +943,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/l03_nod/GDCPrimitive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="15" column="8" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="16" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/l03_nod/GDCEuclide.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="25" column="5" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="25" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/l03_nod/GDCWithoutRecursion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="25" column="56" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="25" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/l04_greedy_knapsack/GreedyKnapsackWithComparator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="663">
@@ -1323,11 +1377,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/l04_greedy_knapsack/GreedyKnapsackWithComparable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="28" column="50" lean-forward="false" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="50" />
+        <state relative-caret-position="341">
+          <caret line="39" column="67" lean-forward="true" selection-start-line="39" selection-start-column="67" selection-end-line="39" selection-end-column="67" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="599" column="6" lean-forward="false" selection-start-line="599" selection-start-column="6" selection-end-line="599" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/a_data_structures_part/a_stack/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="23" column="43" lean-forward="false" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+            <element signature="e#697#698#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/a_data_structures_part/a_stack/BalancedBrackets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
