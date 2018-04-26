@@ -9,17 +9,21 @@ public class BalancedBrackets {
         Stack stack = new Stack();
         while (index < brackets.length() && balanced) {
             char symbol = brackets.toCharArray()[index];
-            if (symbol == '(') {
+            if ("([{".indexOf(symbol) >= 0 ) {
                 stack.push(symbol);
             } else {
                 if (stack.isEmpty()) {
                     balanced = false;
                 } else {
-                    stack.pop();
+                    Object top = stack.pop();
+                    if (!matches((Character) top, symbol)) {
+                        balanced = false;
+                    }
                 }
             }
             index++;
         }
+
         if (balanced && stack.isEmpty()) {
             return true;
         } else {
@@ -27,8 +31,16 @@ public class BalancedBrackets {
         }
     }
 
+    private boolean matches(char open, char close) {
+        String opens = "([{";
+        String closers = ")]}";
+        return opens.indexOf(open) == closers.indexOf(close);
+    }
+
     public static void main(String[] args) {
         System.out.println(new BalancedBrackets().isBalanced("(()")  );
         System.out.println(new BalancedBrackets().isBalanced("((()))")  );
+        System.out.println(new BalancedBrackets().isBalanced("{{([][])}()}"));
+        System.out.println(new BalancedBrackets().isBalanced("[{()]")  );
     }
 }
