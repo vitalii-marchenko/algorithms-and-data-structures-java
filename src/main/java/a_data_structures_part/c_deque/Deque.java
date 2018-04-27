@@ -1,4 +1,4 @@
-package a_data_structures_part.d_deque;
+package a_data_structures_part.c_deque;
 
 
 import java.util.ArrayList;
