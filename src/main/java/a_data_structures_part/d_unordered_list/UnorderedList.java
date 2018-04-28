@@ -90,6 +90,52 @@ public class UnorderedList {
         }
     }
 
+    public int index(int item) {
+        int index = 0;
+        Node current = this.head;
+        while (current != null) {
+            if (current.getData() == item) {
+                return index;
+            }
+            index++;
+            current = current.getNext();
+        }
+        return -1;
+    }
+
+    public int pop() {
+        Node current = this.head;
+        Node prev = null;
+        while (current.getNext() != null) {
+            prev = current;
+            current = current.getNext();
+        }
+
+        if (prev == null) {
+            this.head = null;
+            return current.getData();
+        } else {
+            prev.setNext(null);
+            return current.getData();
+        }
+    }
+
+    public int pop(int pos) {
+        Node curr = this.head;
+        Node prev = null;
+        for (int i = 0; i < pos; i++) {
+            prev = curr;
+            curr = curr.getNext();
+        }
+        if (prev == null) {
+            int res = this.head.getData();
+            this.head = curr.getNext();
+            return res;
+        }
+        prev.setNext(curr.getNext());
+        return curr.getData();
+    }
+
     public static void main(String[] args) {
         UnorderedList unorderedList = new UnorderedList();
         unorderedList.isEmpty();
@@ -99,6 +145,8 @@ public class UnorderedList {
         unorderedList.add(55);
         unorderedList.add(1);
         unorderedList.add(12);
+        unorderedList.pop(3);
+        unorderedList.index(45);
         unorderedList.insert(999, 3);
         unorderedList.insert(777, 0);
         unorderedList.size();
@@ -107,4 +155,6 @@ public class UnorderedList {
         unorderedList.append(888);
         unorderedList.size();
     }
+
+
 }

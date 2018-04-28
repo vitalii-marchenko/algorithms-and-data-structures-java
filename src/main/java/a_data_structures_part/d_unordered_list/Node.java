@@ -11,7 +11,7 @@ public class Node {
         this.next = null;
     }
 
-    public Object getData() {
+    public int getData() {
         return this.data;
     }
 
