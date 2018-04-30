@@ -1,4 +1,4 @@
-package a_data_structures_part.d_unordered_list;
+package a_data_structures_part.d_linked_list;
 
 
 public class UnorderedList {
@@ -155,6 +155,4 @@ public class UnorderedList {
         unorderedList.append(888);
         unorderedList.size();
     }
-
-
 }
