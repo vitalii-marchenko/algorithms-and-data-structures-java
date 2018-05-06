@@ -57,11 +57,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReverseWordsInString.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ReverseWordsInString.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/ReverseWordsInString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            <state relative-caret-position="300">
+              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DetectCapital.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/DetectCapital.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="395">
+              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RotatedDigits.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/RotatedDigits.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="517">
+              <caret line="41" column="61" selection-start-line="41" selection-start-column="61" selection-end-line="41" selection-end-column="61" />
+              <folding>
+                <element signature="e#1219#1220#0" expanded="true" />
+                <element signature="e#1255#1256#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -69,9 +91,11 @@
       <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/String.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="2328" column="20" selection-start-line="2328" selection-start-column="20" selection-end-line="2328" selection-end-column="20" />
+            <state relative-caret-position="210">
+              <caret line="655" column="16" selection-start-line="655" selection-start-column="16" selection-end-line="655" selection-end-column="16" />
               <folding>
+                <element signature="e#66457#66458#0" expanded="true" />
+                <element signature="e#66495#66496#0" expanded="true" />
                 <element signature="e#104675#104676#0" expanded="true" />
                 <element signature="e#104730#104731#0" expanded="true" />
               </folding>
@@ -104,32 +128,6 @@
                 <element signature="e#400#401#0" expanded="true" />
                 <element signature="e#413#414#0" expanded="true" />
                 <element signature="e#448#449#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SuppressWarnings.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/SuppressWarnings.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="53" column="18" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyEntry.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/a_data_structures_part/g_hash_table/MyEntry.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="5" selection-end-column="20" />
-              <folding>
-                <element signature="e#239#240#0" expanded="true" />
-                <element signature="e#265#266#0" expanded="true" />
-                <element signature="e#292#293#0" expanded="true" />
-                <element signature="e#320#321#0" expanded="true" />
-                <element signature="e#357#358#0" expanded="true" />
-                <element signature="e#391#392#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -199,6 +197,8 @@
         <option value="$PROJECT_DIR$/src/main/java/psets_for_recap/AnagramChecker.java" />
         <option value="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/JudgeRouteCircle.java" />
         <option value="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/ReverseWordsInString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/DetectCapital.java" />
+        <option value="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/RotatedDigits.java" />
       </list>
     </option>
   </component>
@@ -337,7 +337,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReverseWordsInString">
+  <component name="RunManager" selected="Application.RotatedDigits">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -352,13 +352,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="HashTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a_data_structures_part.g_hash_table.HashTable" />
+    <configuration name="DetectCapital" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="psets_for_recap.leetcode_problems.DetectCapital" />
       <module name="algorithms-and-data-structures-java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="a_data_structures_part.g_hash_table.*" />
+          <option name="PATTERN" value="psets_for_recap.leetcode_problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -374,19 +374,19 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="MyMapImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a_data_structures_part.g_hash_table.MyMapImpl" />
+    <configuration name="ReverseWordsInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="psets_for_recap.leetcode_problems.ReverseWordsInString" />
       <module name="algorithms-and-data-structures-java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="a_data_structures_part.g_hash_table.*" />
+          <option name="PATTERN" value="psets_for_recap.leetcode_problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ReverseWordsInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="psets_for_recap.leetcode_problems.ReverseWordsInString" />
+    <configuration name="RotatedDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="psets_for_recap.leetcode_problems.RotatedDigits" />
       <module name="algorithms-and-data-structures-java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -570,19 +570,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.HashTable" />
-      <item itemvalue="Application.MyMapImpl" />
       <item itemvalue="Application.AnagramChecker" />
       <item itemvalue="Application.JudgeRouteCircle" />
       <item itemvalue="Application.ReverseWordsInString" />
+      <item itemvalue="Application.DetectCapital" />
+      <item itemvalue="Application.RotatedDigits" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RotatedDigits" />
+        <item itemvalue="Application.DetectCapital" />
         <item itemvalue="Application.ReverseWordsInString" />
         <item itemvalue="Application.JudgeRouteCircle" />
         <item itemvalue="Application.AnagramChecker" />
-        <item itemvalue="Application.MyMapImpl" />
-        <item itemvalue="Application.HashTable" />
       </list>
     </recent_temporary>
   </component>
@@ -611,7 +611,7 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2867647" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2867647" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
@@ -621,7 +621,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4422269" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4422269" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" id="Properties" order="4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -778,12 +778,24 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/ReverseWordsInString.java</url>
-          <line>17</line>
+          <line>13</line>
           <properties />
           <option name="timeStamp" value="77" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/DetectCapital.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/RotatedDigits.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="78" />
+      <option name="time" value="82" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -793,61 +805,53 @@
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>String.join(&quot; &quot;, resArr)</expression-string>
+        <expression-string>ch != '2' &amp;&amp; ch !='3'</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>String.join(&quot;,&quot;, resArr)</expression-string>
+        <expression-string>false &amp;&amp; true</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>resArr.toString()</expression-string>
+        <expression-string>false || true</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>new MyMapImpl&lt;String, Integer&gt;()</expression-string>
+        <expression-string>ch != '3'</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>new HashTable();</expression-string>
+        <expression-string>ch != '2'</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>new HashTable()</expression-string>
+        <expression-string>(ch != '2' )|| (ch != 3)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>array.length / chunkSize</expression-string>
+        <expression-string>ch != '2' | ch != 3</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>int numOfChunks = (int)Math.ceil((double)array.length / chunkSize);</expression-string>
+        <expression-string>ch != '2' || ch != 3</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>unorderedList</expression-string>
+        <expression-string>ch == '2'</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/l01/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="11" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Arrays.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/List.java" />
     <entry file="file://$PROJECT_DIR$/input.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -1187,21 +1191,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/ReverseWordsInString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="2328" column="20" selection-start-line="2328" selection-start-column="20" selection-end-line="2328" selection-end-column="20" />
+        <state relative-caret-position="210">
+          <caret line="655" column="16" selection-start-line="655" selection-start-column="16" selection-end-line="655" selection-end-column="16" />
           <folding>
+            <element signature="e#66457#66458#0" expanded="true" />
+            <element signature="e#66495#66496#0" expanded="true" />
             <element signature="e#104675#104676#0" expanded="true" />
             <element signature="e#104730#104731#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/ReverseWordsInString.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/DetectCapital.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        <state relative-caret-position="395">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/RotatedDigits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="41" column="61" selection-start-line="41" selection-start-column="61" selection-end-line="41" selection-end-column="61" />
+          <folding>
+            <element signature="e#1219#1220#0" expanded="true" />
+            <element signature="e#1255#1256#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1222,7 +1246,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
