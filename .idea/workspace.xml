@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d478af8-5bf3-4291-8c65-411f99f235a4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/ContainsDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/arrays/ContainsDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/DetectCapital.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/strings/DetectCapital.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/DisappearedNumbersInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/arrays/DisappearedNumbersInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/JudgeRouteCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/strings/JudgeRouteCircle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/MajorityElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/arrays/MajorityElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/MaxConsecutiveOnes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/arrays/MaxConsecutiveOnes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/MoveZeroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/arrays/MoveZeroes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/ReverseWordsInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/strings/ReverseWordsInString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/RotatedDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/strings/RotatedDigits.java" afterDir="false" />
-    </list>
+    <list default="true" id="3d478af8-5bf3-4291-8c65-411f99f235a4" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,7 +61,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MoveZeroes.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MoveZeroes.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/arrays/MoveZeroes.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
@@ -80,11 +70,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MajorityElement.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/arrays/MajorityElement.java">
+      <file leaf-file-name="KeyboardRow.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/hash_table/KeyboardRow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            <state relative-caret-position="320">
+              <caret line="39" column="45" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -92,23 +82,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Stack.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/a_data_structures_part/a_stack/Stack.java">
+      <file leaf-file-name="MajorityElement.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/arrays/MajorityElement.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
-              <caret line="34" column="28" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="28" />
+            <state relative-caret-position="-88">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#205#206#0" expanded="true" />
-                <element signature="e#252#253#0" expanded="true" />
-                <element signature="e#284#285#0" expanded="true" />
-                <element signature="e#324#325#0" expanded="true" />
-                <element signature="e#361#362#0" expanded="true" />
-                <element signature="e#392#393#0" expanded="true" />
-                <element signature="e#420#421#0" expanded="true" />
-                <element signature="e#470#471#0" expanded="true" />
-                <element signature="e#662#663#0" expanded="true" />
-                <element signature="e#697#698#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -153,7 +133,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/l04_greedy_knapsack/GreedyKnapsack.java" />
         <option value="$PROJECT_DIR$/src/main/java/l04_greedy_knapsack/GreedyKnapsackWithComparator.java" />
         <option value="$PROJECT_DIR$/src/main/java/l04_greedy_knapsack/NumOfCoins.java" />
         <option value="$PROJECT_DIR$/input_huffman.txt" />
@@ -204,6 +183,7 @@
         <option value="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/strings/JudgeRouteCircle.java" />
         <option value="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/strings/ReverseWordsInString.java" />
         <option value="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/strings/RotatedDigits.java" />
+        <option value="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/hash_table/KeyboardRow.java" />
       </list>
     </option>
   </component>
@@ -214,9 +194,10 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1680" />
-    <option name="height" value="1050" />
+    <option name="height" value="977" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -335,6 +316,16 @@
               <item name="psets_for_recap" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode_problems" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algorithms-and-data-structures-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms-and-data-structures-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="psets_for_recap" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode_problems" type="462c0819:PsiDirectoryNode" />
+              <item name="arrays" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -360,7 +351,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ContainsDuplicates">
+  <component name="RunManager" selected="Application.KeyboardRow">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -386,6 +377,17 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="KeyboardRow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="psets_for_recap.leetcode_problems.hash_table.KeyboardRow" />
+      <module name="algorithms-and-data-structures-java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="psets_for_recap.leetcode_problems.hash_table.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="MajorityElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="psets_for_recap.leetcode_problems.arrays.MajorityElement" />
       <module name="algorithms-and-data-structures-java" />
@@ -404,17 +406,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="psets_for_recap.leetcode_problems.strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a_data_structures_part.h_sorting_algorithms.SelectionSort" />
-      <module name="algorithms-and-data-structures-java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="a_data_structures_part.h_sorting_algorithms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -593,19 +584,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.SelectionSort" />
       <item itemvalue="Application.MoveZeroes" />
       <item itemvalue="Application.DisappearedNumbersInArray" />
       <item itemvalue="Application.MajorityElement" />
       <item itemvalue="Application.ContainsDuplicates" />
+      <item itemvalue="Application.KeyboardRow" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KeyboardRow" />
         <item itemvalue="Application.ContainsDuplicates" />
         <item itemvalue="Application.MajorityElement" />
         <item itemvalue="Application.DisappearedNumbersInArray" />
         <item itemvalue="Application.MoveZeroes" />
-        <item itemvalue="Application.SelectionSort" />
       </list>
     </recent_temporary>
   </component>
@@ -623,7 +614,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="977" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -638,12 +630,12 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18864469" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18864469" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.38130254" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4235706" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info id="Nl-Palette" order="2" />
@@ -876,8 +868,26 @@
           <properties />
           <option name="timeStamp" value="110" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/hash_table/KeyboardRow.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/hash_table/KeyboardRow.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/hash_table/KeyboardRow.java</url>
+          <line>79</line>
+          <properties />
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="111" />
+      <option name="time" value="115" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -886,6 +896,16 @@
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>rowsMapping.get(ch)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>rowsMapping.get(firstLetter)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>!(mySet.size() == originalLen)</expression-string>
         <language-id>JAVA</language-id>
@@ -921,31 +941,9 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>false || true</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>ch != '3'</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/l04_greedy_knapsack/GreedyKnapsackWithComparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="66" column="7" selection-start-line="66" selection-start-column="7" selection-end-line="67" selection-end-column="56" />
-          <folding>
-            <element signature="imports" />
-            <element signature="e#965#1228#0" />
-            <element signature="e#1227#1228#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/input_huffman.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1290,16 +1288,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/arrays/MajorityElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/arrays/MaxConsecutiveOnes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -1311,6 +1299,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/arrays/MajorityElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-88">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/hash_table/KeyboardRow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="39" column="45" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
