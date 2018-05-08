@@ -1,4 +1,4 @@
-package psets_for_recap.leetcode_problems;
+package psets_for_recap.leetcode_problems.arrays;
 
 public class MoveZeroes {
     /*
