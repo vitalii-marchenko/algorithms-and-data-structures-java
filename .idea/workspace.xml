@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d478af8-5bf3-4291-8c65-411f99f235a4" name="Default" comment="" />
+    <list default="true" id="3d478af8-5bf3-4291-8c65-411f99f235a4" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,17 +57,29 @@
       <file leaf-file-name="MaxConsecutiveOnes.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/MaxConsecutiveOnes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
+            <state relative-caret-position="225">
               <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MoveZeroes.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MoveZeroes.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/MoveZeroes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="20" column="17" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="33" />
+            <state relative-caret-position="437">
+              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DisappearedNumbersInArray.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/DisappearedNumbersInArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="15" column="47" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -85,7 +99,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/l02_fib/Fibonacci.java" />
         <option value="$PROJECT_DIR$/src/main/java/l02_fib/FibWithoutCache.java" />
         <option value="$PROJECT_DIR$/src/main/java/l03_nod/GDC.java" />
         <option value="$PROJECT_DIR$/src/main/java/l03_nod/GDCPrimitive.java" />
@@ -136,6 +149,7 @@
         <option value="$PROJECT_DIR$/src/main/java/a_data_structures_part/h_sorting_algorithms/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/a_data_structures_part/h_sorting_algorithms/SelectionSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/MoveZeroes.java" />
+        <option value="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/DisappearedNumbersInArray.java" />
       </list>
     </option>
   </component>
@@ -178,8 +192,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -243,7 +258,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -265,7 +279,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MoveZeroes">
+  <component name="RunManager" selected="Application.DisappearedNumbersInArray">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -276,6 +290,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="a_data_structures_part.h_sorting_algorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="DisappearedNumbersInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="psets_for_recap.leetcode_problems.DisappearedNumbersInArray" />
+      <module name="algorithms-and-data-structures-java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="psets_for_recap.leetcode_problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -293,17 +318,6 @@
     </configuration>
     <configuration name="MoveZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="psets_for_recap.leetcode_problems.MoveZeroes" />
-      <module name="algorithms-and-data-structures-java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="psets_for_recap.leetcode_problems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="RotatedDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="psets_for_recap.leetcode_problems.RotatedDigits" />
       <module name="algorithms-and-data-structures-java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -498,19 +512,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.RotatedDigits" />
       <item itemvalue="Application.MaxConsecutiveOnes" />
       <item itemvalue="Application.BubbleSort" />
       <item itemvalue="Application.SelectionSort" />
       <item itemvalue="Application.MoveZeroes" />
+      <item itemvalue="Application.DisappearedNumbersInArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DisappearedNumbersInArray" />
         <item itemvalue="Application.MoveZeroes" />
         <item itemvalue="Application.SelectionSort" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.MaxConsecutiveOnes" />
-        <item itemvalue="Application.RotatedDigits" />
       </list>
     </recent_temporary>
   </component>
@@ -539,23 +553,23 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2867647" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2867647" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18498169" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18681319" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.38130254" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.38130254" />
+      <window_info anchor="right" id="Properties" order="4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info id="Nl-Palette" order="2" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Properties" order="4" />
+      <window_info id="Nl-Palette" order="2" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -753,13 +767,13 @@
           <option name="timeStamp" value="87" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/MoveZeroes.java</url>
-          <line>22</line>
+          <url>file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/DisappearedNumbersInArray.java</url>
+          <line>18</line>
           <properties />
-          <option name="timeStamp" value="88" />
+          <option name="timeStamp" value="105" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="89" />
+      <option name="time" value="106" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -768,6 +782,21 @@
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>missingNums</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>handleFirstElements(missingNums)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>nums[j]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>ch != '2' &amp;&amp; ch !='3'</expression-string>
         <language-id>JAVA</language-id>
@@ -798,31 +827,9 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>ch != '2' | ch != 3</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>ch != '2' || ch != 3</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>ch == '2'</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/l03_nod/GDCPrimitive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="32" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/l03_nod/GDCWithoutRecursion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -940,11 +947,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="45" column="34" selection-start-line="45" selection-start-column="34" selection-end-line="45" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1028,14 +1030,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="5" selection-end-column="20" />
-          <folding>
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
-            <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-            <element signature="e#391#392#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1050,12 +1044,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="122">
           <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#139#169#0" expanded="true" />
-            <element signature="e#1107#1108#0" expanded="true" />
-            <element signature="e#1134#1135#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1087,12 +1075,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9060">
           <caret line="655" column="16" selection-start-line="655" selection-start-column="16" selection-end-line="655" selection-end-column="16" />
-          <folding>
-            <element signature="e#66457#66458#0" expanded="true" />
-            <element signature="e#66495#66496#0" expanded="true" />
-            <element signature="e#104675#104676#0" expanded="true" />
-            <element signature="e#104730#104731#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1114,12 +1096,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="419">
           <caret line="1250" column="22" selection-start-line="1250" selection-start-column="22" selection-end-line="1250" selection-end-column="22" />
-          <folding>
-            <element signature="e#16338#16339#0" expanded="true" />
-            <element signature="e#16420#16421#0" expanded="true" />
-            <element signature="e#49043#49044#0" expanded="true" />
-            <element signature="e#49082#49083#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1163,15 +1139,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/MaxConsecutiveOnes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
+        <state relative-caret-position="225">
           <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/MoveZeroes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="20" column="17" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="33" />
+        <state relative-caret-position="437">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/DisappearedNumbersInArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="15" column="47" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
