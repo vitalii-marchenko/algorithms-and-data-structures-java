@@ -73,11 +73,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FizzBuzz.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FizzBuzz.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/strings/FizzBuzz.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="49" column="11" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="11" />
+            <state relative-caret-position="325">
+              <caret line="53" column="28" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1178#1179#0" expanded="true" />
@@ -87,24 +87,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Map.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Map.java">
+      <file leaf-file-name="SelfDividingNumbers.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/math/SelfDividingNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="211" column="6" selection-start-line="211" selection-start-column="6" selection-end-line="211" selection-end-column="6" />
+            <state relative-caret-position="88">
+              <caret line="24" column="44" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Iterator.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Iterator.java">
+      <file leaf-file-name="ReverseList.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/linked_lists/ReverseList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="91" column="17" selection-start-line="91" selection-start-column="17" selection-end-line="91" selection-end-column="17" />
-              <folding>
-                <element signature="e#2496#2497#0" expanded="true" />
-                <element signature="e#2561#2562#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="293">
+              <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/linked_lists/ListNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -153,8 +161,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/psets_for_recap/FizzBuzz.java" />
-        <option value="$PROJECT_DIR$/src/main/java/psets_for_recap/ArrayChunk.java" />
         <option value="$PROJECT_DIR$/src/main/java/a_data_structures_part/e_recursion.java" />
         <option value="$PROJECT_DIR$/src/main/java/a_data_structures_part/e_recursion/NumConverter.java" />
         <option value="$PROJECT_DIR$/src/main/java/a_data_structures_part/e_recursion/ArraySum.java" />
@@ -185,7 +191,6 @@
         <option value="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/hash_table/KeyboardRow.java" />
         <option value="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/hash_table/MajorityElement.java" />
         <option value="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/hash_table/SingleNumber.java" />
-        <option value="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/linked_lists/ListNode.java" />
         <option value="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/linked_lists/DeleteNode.java" />
         <option value="$PROJECT_DIR$/src/main/java/a_data_structures_part/h_sorting_algorithms/InsertionSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/binary_search/SearchInsertPosition.java" />
@@ -204,6 +209,9 @@
         <option value="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/stack/MinStack.java" />
         <option value="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/hash_table/ValidAnagram.java" />
         <option value="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/strings/FizzBuzz.java" />
+        <option value="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/math/SelfDividingNumbers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/linked_lists/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/linked_lists/ReverseList.java" />
       </list>
     </option>
   </component>
@@ -214,10 +222,10 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1680" />
-    <option name="height" value="975" />
+    <option name="height" value="973" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -305,7 +313,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="psets_for_recap" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode_problems" type="462c0819:PsiDirectoryNode" />
-              <item name="strings" type="462c0819:PsiDirectoryNode" />
+              <item name="linked_lists" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -335,23 +343,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FizzBuzz">
+  <component name="RunManager" selected="Application.SelfDividingNumbers">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
     <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="psets_for_recap.leetcode_problems.strings.FizzBuzz" />
-      <module name="algorithms-and-data-structures-java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="psets_for_recap.leetcode_problems.strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="MostCommonWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="psets_for_recap.leetcode_problems.strings.MostCommonWord" />
       <module name="algorithms-and-data-structures-java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -368,6 +365,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="psets_for_recap.leetcode_problems.stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SelfDividingNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="psets_for_recap.leetcode_problems.math.SelfDividingNumbers" />
+      <module name="algorithms-and-data-structures-java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="psets_for_recap.leetcode_problems.math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -568,19 +576,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.MostCommonWord" />
       <item itemvalue="Application.MyQueue" />
       <item itemvalue="Application.ValidParentheses" />
       <item itemvalue="Application.ValidAnagram" />
       <item itemvalue="Application.FizzBuzz" />
+      <item itemvalue="Application.SelfDividingNumbers" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SelfDividingNumbers" />
         <item itemvalue="Application.FizzBuzz" />
         <item itemvalue="Application.ValidAnagram" />
         <item itemvalue="Application.ValidParentheses" />
         <item itemvalue="Application.MyQueue" />
-        <item itemvalue="Application.MostCommonWord" />
       </list>
     </recent_temporary>
   </component>
@@ -598,7 +606,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="973" extended-state="6" />
+    <frame x="0" y="23" width="1680" height="973" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -609,7 +617,7 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2848769" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2848769" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
@@ -619,7 +627,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.4232122" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4232122" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info id="Nl-Palette" order="2" />
@@ -996,8 +1004,20 @@
           <properties />
           <option name="timeStamp" value="164" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/math/SelfDividingNumbers.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/math/SelfDividingNumbers.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="165" />
+      <option name="time" value="168" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -1054,14 +1074,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/a_data_structures_part/g_hash_table/HashTable.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/a_data_structures_part/g_hash_table/MyEntry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/SuppressWarnings.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -1141,7 +1153,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/linked_lists/ListNode.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/linked_lists/DeleteNode.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/hash_table/SingleNumber.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1449,13 +1460,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/strings/FizzBuzz.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="49" column="11" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="11" />
+        <state relative-caret-position="325">
+          <caret line="53" column="28" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1178#1179#0" expanded="true" />
             <element signature="e#1207#1208#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/math/SelfDividingNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="24" column="44" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/linked_lists/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/linked_lists/ReverseList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
         </state>
       </provider>
     </entry>
