@@ -21,18 +21,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="MostCommonWord.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/strings/MostCommonWord.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" column="27" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ValidParentheses.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/stack/ValidParentheses.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -99,11 +87,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReverseList.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ReverseList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/linked_lists/ReverseList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
+            <state relative-caret-position="536">
               <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HammingDistance.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/bit_manipulation/HammingDistance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+              <folding>
+                <element signature="e#492#493#0" expanded="true" />
+                <element signature="e#528#529#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -161,7 +162,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/a_data_structures_part/e_recursion.java" />
         <option value="$PROJECT_DIR$/src/main/java/a_data_structures_part/e_recursion/NumConverter.java" />
         <option value="$PROJECT_DIR$/src/main/java/a_data_structures_part/e_recursion/ArraySum.java" />
         <option value="$PROJECT_DIR$/src/main/java/a_data_structures_part/f_search_and_sorting_algorithms/SequetialSearch.java" />
@@ -212,6 +212,7 @@
         <option value="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/math/SelfDividingNumbers.java" />
         <option value="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/linked_lists/ListNode.java" />
         <option value="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/linked_lists/ReverseList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/bit_manipulation/HammingDistance.java" />
       </list>
     </option>
   </component>
@@ -305,16 +306,6 @@
               <item name="psets_for_recap" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode_problems" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="algorithms-and-data-structures-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithms-and-data-structures-java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="psets_for_recap" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode_problems" type="462c0819:PsiDirectoryNode" />
-              <item name="linked_lists" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -343,7 +334,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SelfDividingNumbers">
+  <component name="RunManager" selected="Application.HammingDistance">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -358,13 +349,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="MyQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="psets_for_recap.leetcode_problems.stack.MyQueue" />
+    <configuration name="HammingDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="psets_for_recap.leetcode_problems.bit_manipulation.HammingDistance" />
       <module name="algorithms-and-data-structures-java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="psets_for_recap.leetcode_problems.stack.*" />
+          <option name="PATTERN" value="psets_for_recap.leetcode_problems.bit_manipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -576,19 +567,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.MyQueue" />
       <item itemvalue="Application.ValidParentheses" />
       <item itemvalue="Application.ValidAnagram" />
       <item itemvalue="Application.FizzBuzz" />
       <item itemvalue="Application.SelfDividingNumbers" />
+      <item itemvalue="Application.HammingDistance" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HammingDistance" />
         <item itemvalue="Application.SelfDividingNumbers" />
         <item itemvalue="Application.FizzBuzz" />
         <item itemvalue="Application.ValidAnagram" />
         <item itemvalue="Application.ValidParentheses" />
-        <item itemvalue="Application.MyQueue" />
       </list>
     </recent_temporary>
   </component>
@@ -617,17 +608,17 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2848769" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2848769" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1929182" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1929182" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4232122" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4232122" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info id="Nl-Palette" order="2" />
@@ -1016,8 +1007,14 @@
           <properties />
           <option name="timeStamp" value="167" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/bit_manipulation/HammingDistance.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="168" />
+      <option name="time" value="169" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -1026,6 +1023,16 @@
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>convertToBinary(1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>convertToBinary(2)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>myCharsList.remove('n')</expression-string>
         <language-id>JAVA</language-id>
@@ -1061,26 +1068,9 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>char closing = stack.pop();</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>return nums[i] + 1;</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/SuppressWarnings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="53" column="18" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/a_data_structures_part/g_hash_table/MyMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="122">
@@ -1489,8 +1479,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/linked_lists/ReverseList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
+        <state relative-caret-position="536">
           <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/bit_manipulation/HammingDistance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+          <folding>
+            <element signature="e#492#493#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
