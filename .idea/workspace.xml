@@ -96,15 +96,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HammingDistance.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HammingDistance.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/bit_manipulation/HammingDistance.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+            <state relative-caret-position="185">
+              <caret line="22" column="10" lean-forward="true" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
               <folding>
-                <element signature="e#492#493#0" expanded="true" />
-                <element signature="e#528#529#0" expanded="true" />
+                <element signature="e#1171#1172#0" expanded="true" />
+                <element signature="e#1227#1228#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FlipAndInvertImage.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/arrays/FlipAndInvertImage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="44" column="31" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -133,15 +142,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BalancedBrackets.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/a_data_structures_part/a_stack/BalancedBrackets.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="40" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -162,7 +162,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/a_data_structures_part/e_recursion/NumConverter.java" />
         <option value="$PROJECT_DIR$/src/main/java/a_data_structures_part/e_recursion/ArraySum.java" />
         <option value="$PROJECT_DIR$/src/main/java/a_data_structures_part/f_search_and_sorting_algorithms/SequetialSearch.java" />
         <option value="$PROJECT_DIR$/src/main/java/a_data_structures_part/f_search_and_sorting_algorithms/BinarySearch.java" />
@@ -213,6 +212,7 @@
         <option value="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/linked_lists/ListNode.java" />
         <option value="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/linked_lists/ReverseList.java" />
         <option value="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/bit_manipulation/HammingDistance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/arrays/FlipAndInvertImage.java" />
       </list>
     </option>
   </component>
@@ -306,6 +306,16 @@
               <item name="psets_for_recap" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode_problems" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algorithms-and-data-structures-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms-and-data-structures-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="psets_for_recap" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode_problems" type="462c0819:PsiDirectoryNode" />
+              <item name="arrays" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -334,7 +344,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HammingDistance">
+  <component name="RunManager" selected="Application.FlipAndInvertImage">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -345,6 +355,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="psets_for_recap.leetcode_problems.strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="FlipAndInvertImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="psets_for_recap.leetcode_problems.arrays.FlipAndInvertImage" />
+      <module name="algorithms-and-data-structures-java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="psets_for_recap.leetcode_problems.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -378,17 +399,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="psets_for_recap.leetcode_problems.hash_table.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="ValidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="psets_for_recap.leetcode_problems.stack.ValidParentheses" />
-      <module name="algorithms-and-data-structures-java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="psets_for_recap.leetcode_problems.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -567,19 +577,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.ValidParentheses" />
       <item itemvalue="Application.ValidAnagram" />
       <item itemvalue="Application.FizzBuzz" />
       <item itemvalue="Application.SelfDividingNumbers" />
       <item itemvalue="Application.HammingDistance" />
+      <item itemvalue="Application.FlipAndInvertImage" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FlipAndInvertImage" />
         <item itemvalue="Application.HammingDistance" />
         <item itemvalue="Application.SelfDividingNumbers" />
         <item itemvalue="Application.FizzBuzz" />
         <item itemvalue="Application.ValidAnagram" />
-        <item itemvalue="Application.ValidParentheses" />
       </list>
     </recent_temporary>
   </component>
@@ -1009,12 +1019,18 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/bit_manipulation/HammingDistance.java</url>
-          <line>33</line>
+          <line>49</line>
           <properties />
-          <option name="timeStamp" value="168" />
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/arrays/FlipAndInvertImage.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="170" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="169" />
+      <option name="time" value="171" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -1071,13 +1087,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/a_data_structures_part/g_hash_table/MyMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/psets_for_recap/ArrayChunk.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1486,12 +1495,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/bit_manipulation/HammingDistance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        <state relative-caret-position="185">
+          <caret line="22" column="10" lean-forward="true" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
           <folding>
-            <element signature="e#492#493#0" expanded="true" />
-            <element signature="e#528#529#0" expanded="true" />
+            <element signature="e#1171#1172#0" expanded="true" />
+            <element signature="e#1227#1228#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/arrays/FlipAndInvertImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="44" column="31" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
         </state>
       </provider>
     </entry>
