@@ -77,8 +77,25 @@ public class CustomSortString {
         return stringBuilder.toString();
     }
 
+    // Cool solution!!!
+    public String customSortString2(String S, String T) {
+        String seq = "";
+        String result = "";
+
+        for (int i = 0; i < S.length(); i++) {
+            for (int k = 0; k < T.length(); k++) {
+                if (T.charAt(k) == S.charAt(i)) {
+                    seq += S.charAt(i);
+                }
+            }
+            T = T.replaceAll(S.charAt(i) + "", "");
+        }
+
+        return seq + T;
+    }
+
     public static void main(String[] args) {
-        new CustomSortString().customSortString("cba", "abcd"); // expected "cbad"
+        new CustomSortString().customSortString2("cba", "abcd"); // expected "cbad"
         new CustomSortString().customSortString("kqep", "pekeq"); // expected "kqeep"
 
     }
