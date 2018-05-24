@@ -35,15 +35,15 @@ public class PalindromicSubstrings {
     }
 
     private String reverse(String s) {
-        StringBuilder stringBuilder = new StringBuilder();
-        int lastIndex = s.length() - 1;
-        for (int i = lastIndex; i >= 0; i--) {
-            stringBuilder.append(s.charAt(i));
-        }
-        return stringBuilder.toString();
+        StringBuilder stringBuilder = new StringBuilder(s);
+//        int lastIndex = s.length() - 1;
+//        for (int i = lastIndex; i >= 0; i--) {
+//            stringBuilder.append(s.charAt(i));
+//        }
+        return stringBuilder.reverse().toString();
     }
 
     public static void main(String[] args) {
-        new PalindromicSubstrings().countSubstrings("aaa");
+        new PalindromicSubstrings().countSubstrings("aba");
     }
 }
