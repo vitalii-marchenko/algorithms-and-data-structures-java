@@ -22,6 +22,6 @@ public class BinarySearch {
 
     public static void main(String[] args) {
         int [] myArr = {1,2,3,4,5,6,7,8,9,10,100,120,800};
-        System.out.println(new BinarySearch().binarySearch(myArr, 1));
+        System.out.println(new BinarySearch().binarySearch(myArr, 11));
     }
 }
