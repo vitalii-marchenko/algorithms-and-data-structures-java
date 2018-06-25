@@ -16,8 +16,7 @@ public class Woman2 {
         this.age = age;
     }
 
-    public static void main(String[] args )
-    {
+    public static void main(String[] args ) {
         ArrayList<Woman2> women = new ArrayList<Woman2>();
         women.add(new Woman2(18));
         women.add(new Woman2(21));
