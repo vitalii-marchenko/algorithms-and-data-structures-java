@@ -11,5 +11,6 @@ public class Dog extends Anial {
         Dog d = new Dog(5);
         d.bark();
         staticBark();
+        Dog.staticBark();
     }
 }
