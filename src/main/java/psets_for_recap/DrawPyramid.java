@@ -50,6 +50,6 @@ public class DrawPyramid {
     public static void main(String[] args) {
         //new DrawPyramid().drawStepsPyramid(5);
         //new DrawPyramid().drawStepsPyramid2(5);
-        new DrawPyramid().drawStepsPyramid4(5);
+        new DrawPyramid().drawStepsPyramid3(5);
     }
 }
