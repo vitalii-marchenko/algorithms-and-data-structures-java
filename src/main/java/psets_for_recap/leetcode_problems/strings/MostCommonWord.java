@@ -1,6 +1,5 @@
 package psets_for_recap.leetcode_problems.strings;
 
-import com.sun.tools.javac.code.Scope;
 
 import java.util.*;
 
@@ -71,9 +70,17 @@ public class MostCommonWord {
         return elementsCount;
     }
 
+    private int countAllLettersInPhrase(String phrase) {
+        String phraseWithoutWhitespaces = phrase.replaceAll(" ", "");
+        return phraseWithoutWhitespaces.length();
+    }
+
     public static void main(String[] args) {
         String[] arr = {"hit"};
-        new MostCommonWord().mostCommonWord(
+        MostCommonWord mostCommonWord = new MostCommonWord();
+        mostCommonWord.mostCommonWord(
                 "Bob hit a ball, the hit BALL flew far after it was hit.", arr);
+
+        mostCommonWord.countAllLettersInPhrase("Hello there");
     }
 }

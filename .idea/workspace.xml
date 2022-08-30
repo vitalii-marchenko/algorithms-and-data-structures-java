@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3d478af8-5bf3-4291-8c65-411f99f235a4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/self_preparation/java_features/f_threads/nail/c_syncronized/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/self_preparation/java_features/f_threads/nail/e_producer_pattern/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/self_preparation/java_features/f_threads/nail/f_wait_notify/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/strings/MostCommonWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/strings/MostCommonWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_data_structures_part/a_stack/BalancedBrackets.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/a_data_structures_part/a_stack/BalancedBrackets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_data_structures_part/c_deque/PalindromeChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/a_data_structures_part/c_deque/PalindromeChecker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/l02_fib/FibWithoutCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/l02_fib/FibWithoutCache.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/l04_greedy_knapsack/GreedyKnapsackWithComparable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/l04_greedy_knapsack/GreedyKnapsackWithComparable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/l04_greedy_knapsack/GreedyKnapsackWithComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/l04_greedy_knapsack/GreedyKnapsackWithComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/l05_huffman/HuffmanCoding.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/l05_huffman/HuffmanCoding.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/psets_for_recap/MaxChars.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/psets_for_recap/MaxChars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/psets_for_recap/Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/psets_for_recap/Palindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/psets_for_recap/ReverseInt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/psets_for_recap/ReverseInt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/psets_for_recap/ReverseString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/psets_for_recap/ReverseString.class" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,12 +56,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -78,44 +86,43 @@
     </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaRushHomeWork" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/vitaliimarchenko/workspace/pet/algorithms-and-data-structures-java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.gutterIcons&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="self_preparation.java_features" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Test (2)">
+  <component name="RunManager" selected="Application.PalindromeNumber">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="self_preparation.java_features.f_threads.nail.a_thread.Main" />
+    <configuration name="OptionalsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="self_preparation.java_features.streams.OptionalsTest" />
       <module name="algorithms-and-data-structures-java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="self_preparation.java_features.f_threads.nail.a_thread.*" />
+          <option name="PATTERN" value="self_preparation.java_features.streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,13 +130,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="self_preparation.java_features.f_threads.nail.e_producer_pattern.Test" />
+    <configuration name="PalindromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="psets_for_recap.leetcode_problems.arrays.PalindromeNumber" />
       <module name="algorithms-and-data-structures-java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="self_preparation.java_features.f_threads.nail.e_producer_pattern.*" />
+          <option name="PATTERN" value="psets_for_recap.leetcode_problems.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,13 +144,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="self_preparation.java_features.f_threads.nail.f_wait_notify.Test" />
+    <configuration name="StreamsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="self_preparation.java_features.streams.StreamsTest" />
       <module name="algorithms-and-data-structures-java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="self_preparation.java_features.f_threads.nail.f_wait_notify.*" />
+          <option name="PATTERN" value="self_preparation.java_features.streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,13 +158,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="self_preparation.java_features.f_threads.nail.d_thread_pool.Test" />
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="psets_for_recap.leetcode_problems.arrays.TwoSum" />
       <module name="algorithms-and-data-structures-java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="self_preparation.java_features.f_threads.nail.d_thread_pool.*" />
+          <option name="PATTERN" value="psets_for_recap.leetcode_problems.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,13 +172,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="self_preparation.java_features.f_threads.nail.c_syncronized.Test2" />
+    <configuration name="TwoSum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="psets_for_recap.leetcode_problems.arrays.TwoSum2" />
       <module name="algorithms-and-data-structures-java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="self_preparation.java_features.f_threads.nail.c_syncronized.*" />
+          <option name="PATTERN" value="psets_for_recap.leetcode_problems.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,36 +199,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <module name="" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -245,22 +224,23 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Test2" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.Test (1)" />
-      <item itemvalue="Application.Test (2)" />
+      <item itemvalue="Application.PalindromeNumber" />
+      <item itemvalue="Application.TwoSum" />
+      <item itemvalue="Application.TwoSum2" />
+      <item itemvalue="Application.OptionalsTest" />
+      <item itemvalue="Application.StreamsTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test (2)" />
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.PalindromeNumber" />
+        <item itemvalue="Application.TwoSum2" />
+        <item itemvalue="Application.TwoSum" />
+        <item itemvalue="Application.OptionalsTest" />
+        <item itemvalue="Application.StreamsTest" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -271,17 +251,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524315133336</updated>
+      <workItem from="1660764938372" duration="3100000" />
+      <workItem from="1660837281874" duration="7966000" />
+      <workItem from="1660916846096" duration="7313000" />
+      <workItem from="1661319916856" duration="1696000" />
+      <workItem from="1661330635262" duration="3399000" />
+      <workItem from="1661408777336" duration="9644000" />
+      <workItem from="1661784370245" duration="608000" />
+      <workItem from="1661785858089" duration="607000" />
+      <workItem from="1661851858997" duration="3067000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -520,34 +510,9 @@
           <option name="timeStamp" value="134" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/arrays/TwoSum.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="135" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/arrays/TwoSum.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="136" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/arrays/MissingNumber.java</url>
           <line>36</line>
           <option name="timeStamp" value="145" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/strings/MostCommonWord.java</url>
-          <line>39</line>
-          <option name="timeStamp" value="146" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/strings/MostCommonWord.java</url>
-          <line>58</line>
-          <option name="timeStamp" value="150" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/strings/MostCommonWord.java</url>
-          <line>52</line>
-          <option name="timeStamp" value="151" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/stack/MyQueue.java</url>
@@ -748,6 +713,41 @@
           <url>file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/math/SelfDividingNumbersVTwo.java</url>
           <line>31</line>
           <option name="timeStamp" value="309" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/self_preparation/java_features/streams/FunctionsTest.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="314" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/self_preparation/java_features/streams/AnotherStream.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="325" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/strings/MostCommonWord.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="327" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/self_preparation/java_features/streams/OptionalsTest.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="332" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/arrays/TwoSum.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="334" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/arrays/TwoSum2.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="337" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/psets_for_recap/leetcode_problems/arrays/PalindromeNumber.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="338" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
